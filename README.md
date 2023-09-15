@@ -1,0 +1,1 @@
+This project is a browser version of an etch-a-sketch, built using html, css, and javascript. It will allow a user to draw a picture on a provided grid by dragging their mouse across it.
