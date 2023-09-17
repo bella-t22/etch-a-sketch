@@ -29,15 +29,19 @@ button {
     flex-wrap: wrap;
     width: 512px;
     height: 512px;
+    gap: 0;
+    padding: 0;
+    margin: 0;
 }
 
 .square {
     border: 1px solid lightgray;
-    width: 30px;
-    height: 30px;
     margin: 0;
+    padding: 0;
     display: inline-block;
     transition: 2s;
+    gap: 0;
+    box-sizing: border-box;
 }
 
 
