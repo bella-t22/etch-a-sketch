@@ -52,13 +52,3 @@ function newGrid(numOfSquares) {
         return alert('Oops, too big! Try again!');
     }
 }
-
-
-generateSquares(256)
-
-// clear grid
-// make sure that user inputed number is no more than 100. try again if it is
-// take user inputed number and multiply it by itself and add those squares to the grid
-// divide 512 by numOfSquares to find the width and height of each square
-// add width and height of square to css
- 
